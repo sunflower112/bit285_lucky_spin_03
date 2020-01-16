@@ -10,7 +10,7 @@ div {
        font-family:Cambria, Cochin, Georgia, Times, Times New Roman, serif;
        font-size:2em;
        font-weight:bold;
-       background-color:lightyellow;
+       background-color:lightgreen;
        border:solid thin;
        border-color:darkgoldenrod;
        padding:5px;
@@ -23,6 +23,6 @@ button {
     border-radius: 10px;
     box-shadow: navy;
     border: solid 2px rosybrown;
-    background-color: firebrick;
+    background-color: lightbluel;
     color: beige;
 }
